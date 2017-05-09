@@ -57,7 +57,11 @@
 	
 	a, 
 	a:visited { 
-		color: #444;  
+		color: #444;
+	}
+
+	a:hover {
+		color: #fdb020;
 	}
 	
 	a:active {
