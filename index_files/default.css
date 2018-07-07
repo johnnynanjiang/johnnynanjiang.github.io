@@ -61,7 +61,7 @@
 	}
 
 	a:hover {
-		color: #fdb020;
+		color: #000000;
 	}
 	
 	a:active {
@@ -588,7 +588,7 @@
 	/* CV Section Title */
 	
 	.cv-section-title img {
-		border: 1px solid #dadada;
+		border: 0px solid #dadada;
 	}
 	
 	.cv-section-title h2 {
@@ -606,7 +606,7 @@
 		color: #fff;		
 	}
 	
-	.cv-item:hover .period { background-color: #fdb020; }
+	.cv-item:hover .period { background-color: #000000; }
 	
 	/* Copyright */
 	
@@ -618,7 +618,7 @@
 	/* Isotope */
 	
 	.portfolio-items li a {
-		color: #fdb020;
+		color: #000000;
 	}
 
 	/* Portfolio filter */
