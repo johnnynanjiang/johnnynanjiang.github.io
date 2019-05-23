@@ -600,7 +600,13 @@
 	.cv-item {
 		border-bottom: 1px solid #dadada;
 	}
-	
+
+	.small_logo {
+		width: 20pt;
+		height: 20pt;
+		margin: 2pt;
+	}
+
 	.period {
 		background-color: #b1b1b1;
 		color: #fff;		
